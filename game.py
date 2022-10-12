@@ -117,3 +117,5 @@ while True:
     if txt == 'Нет':
         print('Конец игры!')
         break
+
+print('123')
